@@ -1,0 +1,9 @@
+c:\users\workshop_general\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\workshop_general\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\workshop_general\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\workshop_general\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\workshop_general\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+c:\users\workshop_general\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\ukjsa01\Documents\Visual Studio 2015\Projects\WakeOnLan\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\ukjsa01\Documents\Visual Studio 2015\Projects\WakeOnLan\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\ukjsa01\Documents\Visual Studio 2015\Projects\WakeOnLan\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

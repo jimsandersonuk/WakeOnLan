@@ -1,0 +1,2 @@
+C:\Users\ukjsa01\Documents\Visual Studio 2015\Projects\WakeOnLan\ConsoleApplication3\bin\Debug\WakeOnLan.exe.config
+C:\Users\ukjsa01\Documents\Visual Studio 2015\Projects\WakeOnLan\WakeOnLan\bin\Debug\WakeOnLan.exe.config
